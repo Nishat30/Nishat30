@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishat </h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-
+<div align="center">
+ <img align="center" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat30&label=Profile%20views&color=0e75b6&style=flat" alt="nishat30" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishat30" alt="nishat30" /></a> </p>
