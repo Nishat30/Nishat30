@@ -37,13 +37,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Nishat30&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nishat30&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="600px" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Nishat30&theme=dark&hide_border=false" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Nishat30&theme=dark&hide_border=false" width="660px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishat30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="450px" />
     </td>
   </tr>
 </table>
