@@ -3,7 +3,11 @@
 <div align="center">
  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNvcDlzaW1qODU2N2d4ZTF3Mzl2ZWJlMzRzOG9mNnZhOHdibDF0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat30&label=Profile%20views&color=0e75b6&style=flat" alt="nishat30" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat30&label=Profile%20views&color=0e75b6&style=flat" alt="nishat30" /> 
+</p>
+
+![R2LDivider](https://user-images.githubusercontent.com/42029519/193863609-ff995ff9-53ee-426d-8591-be35005f5b5d.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nishat30&theme=radical&no-frame=false&no-bg=true&margin-w=4)
