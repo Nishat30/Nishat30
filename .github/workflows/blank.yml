@@ -1,23 +1,25 @@
-name: Generate Datas
+name: Generate Snake Animation
 
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ REQUIRED for pushing to a branch
+
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@master
         with:
           github_user_name: Nishat30
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Push the changes to the output branch
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
           build_dir: dist
