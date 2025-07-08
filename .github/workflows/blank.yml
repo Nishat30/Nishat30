@@ -6,17 +6,20 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # ✅ REQUIRED for pushing to a branch
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: Nishat30
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
