@@ -20,7 +20,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://nishat-portfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://nishat-portfolio.netlify.app/" height="30" width="40" /></a>
 <a href="https://twitter.com/https://x.com/mtjbvs65523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mtjbvs65523" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishat-khanam-824a25290/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishat-khanam-824a25290/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/mjtbvs_3015/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mjtbvs_3015/" height="30" width="40" /></a>
