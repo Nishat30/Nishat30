@@ -40,4 +40,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Nishat30&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Snake animation](https://github.com/Nishat30/Nishat30/blob/output/github-contribution-grid-snake.svg)
 
