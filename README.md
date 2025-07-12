@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently dirtying my hands on **Full Stack Development**
 
-- 🤝I’m looking for help with starting with **blockchain development and solidit**
+- 🤝I’m looking for help with starting with **blockchain development and solidity**
 
 - 💬 Ask me about **Data Structures & Algorithms**
 
