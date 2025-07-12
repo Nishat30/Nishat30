@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **nishatkhanam10prl@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **⚰️ Git commit -m “final final FINAL v2 fixed really final”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
