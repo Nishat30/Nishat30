@@ -3,7 +3,7 @@
 <div align="center">
  <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNvcDlzaW1qODU2N2d4ZTF3Mzl2ZWJlMzRzOG9mNnZhOHdibDF0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 </div>
-
+[![An image of @nishat30's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishat30)](https://holopin.io/@nishat30)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat30&label=Profile%20views&color=0e75b6&style=flat" alt="nishat30" /> 
 </p>
 
